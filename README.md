@@ -68,10 +68,10 @@ Create a new Node application called bamazonManager.js. Running this application
 
 List a set of menu options:
 
-*View Products for Sale
-*View Low Inventory
-*Add to Inventory
-*Add New Product
+* View Products for Sale
+* View Low Inventory
+* Add to Inventory
+* Add New Product
 
 
 
